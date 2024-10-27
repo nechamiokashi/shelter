@@ -5,3 +5,8 @@ body{
 h1{
     text-align: center;
 }
+
+ul{
+    font-size: large;
+    color: red;
+}
