@@ -16,3 +16,11 @@ ul{
     border: 3px solid black;
 }
 
+.footer{
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    width: 99%;
+    margin: 0;
+}
+
